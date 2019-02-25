@@ -1,2 +1,0 @@
-# FinalHospital
-Created with CodeSandbox
